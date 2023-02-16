@@ -1,0 +1,384 @@
+{
+  "field": [
+    {
+      "id": 0,
+      "name": "Вперёд",
+      "price": 200
+    },
+    {
+      "id": 1,
+      "name": "Тюмень",
+      "price": 60,
+      "rent": 2,
+      "rentOneHome": 10,
+      "rentTwoHome": 30,
+      "rentThreeHome": 90,
+      "rentFourHome": 160,
+      "rentHotel": 250,
+      "priceHome": 50,
+      "priceHotel": 50
+    },
+    {
+      "id": 2,
+      "name": "Казна",
+      "price": 0
+    },
+    {
+      "id": 3,
+      "name": "Самара",
+      "price": 60,
+      "rent": 4,
+      "rentOneHome": 20,
+      "rentTwoHome": 60,
+      "rentThreeHome": 180,
+      "rentFourHome": 320,
+      "rentHotel": 450,
+      "priceHome": 50,
+      "priceHotel": 50
+    },
+    {
+      "id": 4,
+      "name": "Налог",
+      "price": 200
+    },
+    {
+      "id": 5,
+      "name": "Рижская железная дорога",
+      "price": 200,
+      "rent": [25, 50, 100, 200]
+    },
+    {
+      "id": 6,
+      "name": "Калуга",
+      "price": 100,
+      "rent": 6,
+      "rentOneHome": 30,
+      "rentTwoHome": 90,
+      "rentThreeHome": 270,
+      "rentFourHome": 400,
+      "rentHotel": 550,
+      "priceHome": 50,
+      "priceHotel": 50
+    },
+    {
+      "id": 7,
+      "name": "Шанс",
+      "price": 0
+    },
+    {
+      "id": 8,
+      "name": "Пермь",
+      "price": 100,
+      "rent": 6,
+      "rentOneHome": 30,
+      "rentTwoHome": 90,
+      "rentThreeHome": 270,
+      "rentFourHome": 400,
+      "rentHotel": 550,
+      "priceHome": 50,
+      "priceHotel": 50
+    },
+    {
+      "id": 9,
+      "name": "Томск",
+      "price": 120,
+      "rent": 8,
+      "rentOneHome": 40,
+      "rentTwoHome": 100,
+      "rentThreeHome": 300,
+      "rentFourHome": 450,
+      "rentHotel": 600,
+      "priceHome": 50,
+      "priceHotel": 50
+    },
+    {
+      "id": 10,
+      "name": "Тюрьма",
+      "price": 0
+    },
+    {
+      "id": 11,
+      "name": "Уфа",
+      "price": 140,
+      "rent": 10,
+      "rentOneHome": 50,
+      "rentTwoHome": 150,
+      "rentThreeHome": 450,
+      "rentFourHome": 625,
+      "rentHotel": 750,
+      "priceHome": 100,
+      "priceHotel": 100
+    },
+    {
+      "id": 12,
+      "name": "Электростанция",
+      "price": 150
+    },
+    {
+      "id": 13,
+      "name": "Казань",
+      "price": 140,
+      "rent": 10,
+      "rentOneHome": 50,
+      "rentTwoHome": 150,
+      "rentThreeHome": 450,
+      "rentFourHome": 625,
+      "rentHotel": 750,
+      "priceHome": 100,
+      "priceHotel": 100
+    },
+    {
+      "id": 14,
+      "name": "Краснодар",
+      "price": 160,
+      "rent": 12,
+      "rentOneHome": 60,
+      "rentTwoHome": 180,
+      "rentThreeHome": 500,
+      "rentFourHome": 700,
+      "rentHotel": 900,
+      "priceHome": 100,
+      "priceHotel": 100
+    },
+    {
+      "id": 15,
+      "name": "Курская железная дорога",
+      "price": 200,
+      "rent": [25, 50, 100, 200]
+    },
+    {
+      "id": 16,
+      "name": "Архангельск",
+      "price": 180,
+      "rent": 14,
+      "rentOneHome": 70,
+      "rentTwoHome": 200,
+      "rentThreeHome": 550,
+      "rentFourHome": 750,
+      "rentHotel": 950,
+      "priceHome": 100,
+      "priceHotel": 100
+    },
+    {
+      "id": 17,
+      "name": "Казна",
+      "price": 0
+    },
+    {
+      "id": 18,
+      "name": "Челябинск",
+      "price": 180,
+      "rent": 14,
+      "rentOneHome": 70,
+      "rentTwoHome": 200,
+      "rentThreeHome": 550,
+      "rentFourHome": 750,
+      "rentHotel": 950,
+      "priceHome": 100,
+      "priceHotel": 100
+    },
+    {
+      "id": 19,
+      "name": "Новгород",
+      "price": 200,
+      "rent": 16,
+      "rentOneHome": 80,
+      "rentTwoHome": 220,
+      "rentThreeHome": 600,
+      "rentFourHome": 800,
+      "rentHotel": 1000,
+      "priceHome": 100,
+      "priceHotel": 100
+    },
+    {
+      "id": 20,
+      "name": "Стоянка",
+      "price": 0
+    },
+    {
+      "id": 21,
+      "name": "Омск",
+      "price": 220,
+      "rent": 18,
+      "rentOneHome": 90,
+      "rentTwoHome": 250,
+      "rentThreeHome": 700,
+      "rentFourHome": 875,
+      "rentHotel": 1050,
+      "priceHome": 150,
+      "priceHotel": 150
+    },
+    {
+      "id": 22,
+      "name": "Шанс",
+      "price": 0
+    },
+    {
+      "id": 23,
+      "name": "Волгоград",
+      "price": 220,
+      "rent": 18,
+      "rentOneHome": 90,
+      "rentTwoHome": 250,
+      "rentThreeHome": 700,
+      "rentFourHome": 875,
+      "rentHotel": 1050,
+      "priceHome": 150,
+      "priceHotel": 150
+    },
+    {
+      "id": 24,
+      "name": "Белгород",
+      "price": 240,
+      "rent": 20,
+      "rentOneHome": 100,
+      "rentTwoHome": 300,
+      "rentThreeHome": 750,
+      "rentFourHome": 925,
+      "rentHotel": 1100,
+      "priceHome": 150,
+      "priceHotel": 150
+    },
+    {
+      "id": 25,
+      "name": "Казанская железная дорога",
+      "price": 200,
+      "rent": [25, 50, 100, 200]
+    },
+    {
+      "id": 26,
+      "name": "Ставрополь",
+      "price": 260,
+      "rent": 22,
+      "rentOneHome": 110,
+      "rentTwoHome": 330,
+      "rentThreeHome": 800,
+      "rentFourHome": 975,
+      "rentHotel": 1150,
+      "priceHome": 150,
+      "priceHotel": 150
+    },
+    {
+      "id": 27,
+      "name": "Ростов на Дону",
+      "price": 260,
+      "rent": 22,
+      "rentOneHome": 110,
+      "rentTwoHome": 330,
+      "rentThreeHome": 800,
+      "rentFourHome": 975,
+      "rentHotel": 1150,
+      "priceHome": 150,
+      "priceHotel": 150
+    },
+    {
+      "id": 28,
+      "name": "Водоканал",
+      "price": 150
+    },
+    {
+      "id": 29,
+      "name": "Хабаровск",
+      "price": 280,
+      "rent": 24,
+      "rentOneHome": 120,
+      "rentTwoHome": 360,
+      "rentThreeHome": 850,
+      "rentFourHome": 1025,
+      "rentHotel": 1200,
+      "priceHome": 150,
+      "priceHotel": 150
+    },
+    {
+      "id": 30,
+      "name": "Арест",
+      "price": 0
+    },
+    {
+      "id": 31,
+      "name": "Екатеринбург",
+      "price": 300,
+      "rent": 26,
+      "rentOneHome": 130,
+      "rentTwoHome": 390,
+      "rentThreeHome": 900,
+      "rentFourHome": 1100,
+      "rentHotel": 1275,
+      "priceHome": 200,
+      "priceHotel": 200
+    },
+    {
+      "id": 32,
+      "name": "Владивосток",
+      "price": 300,
+      "rent": 26,
+      "rentOneHome": 130,
+      "rentTwoHome": 390,
+      "rentThreeHome": 900,
+      "rentFourHome": 1100,
+      "rentHotel": 1275,
+      "priceHome": 200,
+      "priceHotel": 200
+    },
+    {
+      "id": 33,
+      "name": "Казна",
+      "price": 0
+    },
+    {
+      "id": 34,
+      "name": "Санкт-Петербург",
+      "price": 320,
+      "rent": 28,
+      "rentOneHome": 150,
+      "rentTwoHome": 450,
+      "rentThreeHome": 1000,
+      "rentFourHome": 1200,
+      "rentHotel": 1400,
+      "priceHome": 200,
+      "priceHotel": 200
+    },
+    {
+      "id": 35,
+      "name": "Ленинградская",
+      "price": 200,
+      "rent": [25, 50, 100, 200]
+    },
+    {
+      "id": 36,
+      "name": "Шанс",
+      "price": 0
+    },
+    {
+      "id": 37,
+      "name": "Москва",
+      "price": 350,
+      "rent": 35,
+      "rentOneHome": 175,
+      "rentTwoHome": 500,
+      "rentThreeHome": 1100,
+      "rentFourHome": 1300,
+      "rentHotel": 1500,
+      "priceHome": 200,
+      "priceHotel": 200
+    },
+    {
+      "id": 38,
+      "name": "Сверхналог",
+      "price": 100
+    },
+    {
+      "id": 39,
+      "name": "Новосибирск",
+      "price": 400,
+      "rent": 50,
+      "rentOneHome": 200,
+      "rentTwoHome": 600,
+      "rentThreeHome": 1400,
+      "rentFourHome": 1700,
+      "rentHotel": 2000,
+      "priceHome": 200,
+      "priceHotel": 200
+    }
+  ]
+}
